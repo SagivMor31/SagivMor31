@@ -4,7 +4,7 @@ I'm a cybersecurity professional, ethical hacker, and content creator. I special
 
 ### 🔭 What I Do
 - 🚀 Cybersecurity: Penetration Testing, Vulnerability Research
-- 🎮 Content Creator: [YouTube](https://youtube.com/@qballgamingYT), [Twitch](https://twitch.tv/qballgaming), and more.
+- 🎮 Content Creator: [YouTube](https://youtube.com/@qballgamingYT), [Twitch](https://www.twitch.tv/theqballgaming), and more.
 - 📊 Ethical Hacking: Exploring the latest tools and techniques
 
 
