@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagiv Marmorstein!
 
-I'm a cybersecurity professional, ethical hacker, and content creator. I specialize in penetration testing, reverse engineering, and web security.
+I'm a cybersecurity professional, ethical hacker, and content creator. I specialize in penetration testing, networking and web security.
 
 ### 🔭 What I Do
 - 🚀 Cybersecurity: Penetration Testing, Vulnerability Research
