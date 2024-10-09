@@ -10,7 +10,7 @@ I'm a cybersecurity professional, ethical hacker, and content creator. I special
 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagiv-marmorstein/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Email: your.email@example.com
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Sagivmore)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagivmarmorstein@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repos and projects.
