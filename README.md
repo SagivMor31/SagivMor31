@@ -4,7 +4,7 @@
 I'm a cybersecurity professional, ethical hacker, and content creator. I specialize in penetration testing, networking, and web security.
 
 
-![ASCII](https://user-images.githubusercontent.com/9919/82726340-6d3b9580-9cb5-11ea-83f1-29041b6c24f3.gif)
+![ASCII](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVkeTR5bDhzcml0cjZpZnFyZms4NWQ2c3liYWZ5eWFxdmh0Yjh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif)
 
 ---
 
@@ -18,7 +18,7 @@ I'm a cybersecurity professional, ethical hacker, and content creator. I special
 ### ⚙️ **Tech Stack**
 - **Languages**: Python, Bash, HTML, CSS, JavaScript
 - **Tools**: Metasploit, Burp Suite, Wireshark, Linux (Kali), Docker
-- **Interests**: Red Teaming, Reverse Engineering, CTFs
+- **Interests**: Red Teaming, Reverse Engineering, CTFs, gaming, editing and watching movies.
 
 ---
 
